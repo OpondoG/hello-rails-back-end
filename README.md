@@ -1,10 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
 </div>
 
 # 📗 Table of Contents
